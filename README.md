@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Okoli Emmanuel
 ---------------------------------
- A Smart Frontend developer
+ A Smart Software Developer
 ----------------------------------
 Okoli is a javascript developer who picks special interest in new generation responsive web development using technologies/tools such Javascript(Reactjs,Nodejs), Mongo DB, Express. I currently work as a software engineer/product manager in Huawei where i over see developement and deployment of software solutions which helps streamline operation cost and increase productivity.
 <p/>
